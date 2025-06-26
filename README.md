@@ -18,3 +18,5 @@ To empower creators and collectors by providing a decentralized platform that fa
 
 ## Contract Details
 [To be filled manually]
+![image](https://github.com/user-attachments/assets/0e405eea-9aec-4444-a3ae-e5ba0dd6d2b2)
+
